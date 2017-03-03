@@ -17,6 +17,7 @@ namespace test_git2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+ //123test
         }
     }
 }
